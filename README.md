@@ -1,10 +1,8 @@
-
-
-##Tesla Clone
-Tesal Clone é um projeto para exercitar conhecimentos de React recriando a página inicial da <a href="https://www.tesla.com/">Tesla</a>
+#Tesla-Clone
+Tesla Clone é um projeto para exercitar conhecimentos de React recriando a página inicial da <a href="https://www.tesla.com/">Tesla</a>
 
 ### Screenshot
-<img width="90%" src="src/tesla.png">
+<img width="90%" src="src/teslaclone.gif">
 
 
 
