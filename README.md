@@ -6,7 +6,7 @@ Tesla Clone é um projeto para exercitar conhecimentos de React recriando a pág
 
 
 
-##Como rodar?
+## Como rodar?
 
 ### `yarn start`
 
